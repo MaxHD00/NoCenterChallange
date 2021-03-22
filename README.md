@@ -23,7 +23,7 @@ The prices and items in the supermarket have also been modified. Ether and elixi
 If you want to make it more difficult, set the rule that these items(Ether, Top Ether, Elixir and Top Elixir) may not be bought, but only found.
 
 An Important Info about Emerald is, that Pokemon, which are put in the Pokemon Box, will be healed automatically. I couldn't patch that out that easily either. You can solve it so that only healed Pokemon are allowed in the box (HP/PP). Alternatively you can give yourself the rule that only Pokemon are allowed in the box but not out.
-Because of Vms I didn't want to remove the Pokemon PCs completely.
+Because of Hms I didn't want to remove the Pokemon PCs completely.
 
 
 
