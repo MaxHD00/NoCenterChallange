@@ -1,8 +1,10 @@
 # NoCenterChallange
-Pokemon No Pokecenter challange 
+Pokemon No Pokecenter challange
+
 Original game: Pokemon Emerald
 
 #German
+
 Die Pokemon Nocenterchallange ist eine Challange wo es das Ziel ist das Spiel abzuschliessen ohne einmal von NPCs geheilt zu werden.
 Selber ist es erlaubt Tränke und andere Items zu nutzen.
 Alle Pokecenter wurden rausgemoddet. Der Pokemon PC wurde in den Supermarkt eingebaut.
@@ -13,6 +15,7 @@ Eine Wichtige Info zu Smaragd ist, dass Pokemon, die in der Pokemon Box abgelegt
 Wegen Vms wollte ich die Pokemon PCs nicht komplett entfernen.
 
 #English
+
 The Pokemon Nocenterchallange is a challange where the goal is to complete the game without being healed once by NPCs.
 You are allowed to use potions and other items.
 All Pokecenters have been modded out. The Pokemon PC has been moved to the supermarket.
